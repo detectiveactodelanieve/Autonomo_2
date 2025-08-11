@@ -1,7 +1,7 @@
 # 🎯 Juego del Ahorcado en Python
 
-**Autor:** Diego Vega  
-**Asignatura:** Programación  
+**Autor:** Jared Vega  
+**Asignatura:** Logica de programacion  
 **Fecha:** Agosto 2025  
 
 ---
@@ -26,4 +26,4 @@ Incluye:
 
 ---
 
-## 📂 Estructura del Proyecto
+
